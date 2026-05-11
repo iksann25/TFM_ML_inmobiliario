@@ -51,7 +51,7 @@ El sistema de valoración final alcanzó hitos de rendimiento que validan su via
 
 ## ✒️ Autor
 
-**Daniel [Tu Apellido]**
+**Daniel López Muñoz**
 *Máster en Big Data y Ciencia de Datos*
 *Universidad Internacional de Valencia (VIU)*
 
